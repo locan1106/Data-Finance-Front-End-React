@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Data-Finance-Front-End-React/static/css/main.2863afbc.css",
+    "main.js": "/Data-Finance-Front-End-React/static/js/main.40b54500.js",
+    "static/media/laptop.jpg": "/Data-Finance-Front-End-React/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/Data-Finance-Front-End-React/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/Data-Finance-Front-End-React/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/Data-Finance-Front-End-React/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/Data-Finance-Front-End-React/index.html",
+    "main.2863afbc.css.map": "/Data-Finance-Front-End-React/static/css/main.2863afbc.css.map",
+    "main.40b54500.js.map": "/Data-Finance-Front-End-React/static/js/main.40b54500.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2863afbc.css",
+    "static/js/main.40b54500.js"
+  ]
+}
